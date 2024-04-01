@@ -1,0 +1,51 @@
+body {
+  min-height: 100vh;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url('../images/moroccan-flower.png');
+  background-repeat: repeat;
+}
+
+.bg-primary {
+  background-color: #a593c2 !important;
+}
+
+.footer {
+  background-color: #a593c2;
+  height: 50px;
+  color: blueviolet;
+  padding: 10px;
+}
+
+.article {
+  max-width: 400px;
+  margin: 20 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.placeholder-img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+h1 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+H2 {
+  text-align: center;
+  background-color: black;
+  color: White;
+}
+
+aside container img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 8em;
+}
