@@ -11,10 +11,13 @@ body {
 }
 
 .footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   background-color: #a593c2;
-  height: 50px;
+  height: 60px;
   color: blueviolet;
-  padding: 10px;
 }
 
 .article {
